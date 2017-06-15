@@ -1,0 +1,68 @@
+ch1 all
+
+interdisciplinary perspectives, literature, methods, approach to knowledge, working in teams
+
+career advancement, students and faculty
+
+impact on departmental procedures, committee composition, buyout, etc
+
+-
+about iis
+history
+membership
+research-events
+communications
+resources: perhaps just student/faculty distinction here
+degrees
+
+=
+communications - email, web, social media, brochure, videos, etc, signage, branding, press releases, 
+
+resources - hangouts, library, ldc, dreamspark, github
+
+outreach - judging, demos, tours, FIT events
+
+existance of IISSO - travel, speed date, thesis grants
+
+
+-----------------------------------
+
+ch2 student
+
+programs to support students
+IISSO - travel, speed date, thesis grants
+
+composing committee, getting letters
+
+
+Faculty interested in leading the seminar are encouraged to contact the IIS Director.
+The seminar provides an excellent venue for new faculty hires or IIS Affiliates to
+engage other faculty and students in their research area, as well as cover hot
+new emerging areas.
+
+The IIS provides material and staff support for the seminar, currently {cogsci-funding}
+for external speaker travel costs and support from {cogsci-travel} for travel arrangements.
+This support also covers external speaker lunches with graduate students (arranged by IISSO)
+and dinners with interested IIS Affiliates.
+
+-----------------------------------
+
+ch3 faculty
+
+grants
+
+service - search, T&P, strategic planning processes
+
+courses - teaching cogsci seminar, drawing interdisciplinary students to dept courses
+
+resources - GA allocation, travel funding, space allocation, computer allocation, 
+-----------------------------------
+
+ch4 staff
+
+Roles and responsibilities
+
+Grant submission procedure
+Grant rebudgeting procedure
+Grant annual report procedure
+
